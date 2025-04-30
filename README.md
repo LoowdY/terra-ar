@@ -74,5 +74,7 @@ terra-ar/
 ---
 
 ## 👨‍💻 Autor
-
+João Renan Santanna Lopes.  
+Apoio: Professora Suzana Lustosa.  
+Instituição: CESUPA - Centro Universitário do Pará.  
 Projeto de demonstração para aplicações com Python, RA e gráficos 3D.
