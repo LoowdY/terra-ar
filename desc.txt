@@ -1,8 +1,0 @@
-Arquivo/Diretório	Descrição
-main_ar.py	Script principal que usa a webcam + ArUco para mostrar a Terra sobre o marcador
-earth_renderer.py	Carrega a textura e desenha a esfera com OpenGL
-sphere.py	Gera a malha esférica em tempo real (modelo 3D próprio da equipe!)
-marker_23.png	Imagem de marcador ArUco (imprima para usar com a webcam)
-textures/*.jpg	Texturas realistas aplicadas na Terra
-README.md	Orientações sobre execução e integrantes
-apresentacao_visualizador_terra.pptx	Slides exigidos pela entrega
