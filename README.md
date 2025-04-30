@@ -1,4 +1,4 @@
-# 🌍 Visualizador AR da Terra com Python + OpenCV + OpenGL
+# 🌍 Visualizador 3D da Terra com  AR + Python + OpenCV + OpenGL
 
 Este projeto implementa um sistema de **realidade aumentada** que exibe um **modelo 3D da Terra** sobre um marcador **ArUco**, utilizando Python, OpenGL, OpenCV e Pygame.
 
