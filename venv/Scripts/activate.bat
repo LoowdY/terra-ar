@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\PA1857ES\Documents\final-sgc\2bi-cg\venv
+set VIRTUAL_ENV=C:\programacao\terra-cg\terra-ar\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

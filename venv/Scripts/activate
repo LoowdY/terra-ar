@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\PA1857ES\Documents\final-sgc\2bi-cg\venv"
+VIRTUAL_ENV="C:\programacao\terra-cg\terra-ar\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

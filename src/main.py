@@ -18,7 +18,7 @@ def init_window():
 def main():
     init_window()
     sphere_data = create_sphere()
-    texture_id = render_earth.load_texture("textures/Earth_Diffuse.png")
+    texture_id = render_earth.load_texture("textures/Earth_Diffuse.jpg")
 
 
     clock = pygame.time.Clock()
